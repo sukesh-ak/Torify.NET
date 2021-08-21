@@ -17,7 +17,7 @@ Thank you [Huo Yaoyan](https://github.com/huoyaoyuan) for the implementation.
 
 ## How to connect to .onion websites through Tor using .NET 6.0
 Please read the detailed accompanying article which explains the steps and also tips on how to setup Tor for connecting from your .NET application.
-Article link here on my blog => [Blog Article on sukesh.me](https://www.sukesh.me/)
 
-> Read about Tor on their [Github page](https://github.com/torproject/tor) or [Website](www.torproject.org)
+
+> Article link here on my blog => [Blog Article on sukesh.me](https://sukesh.me/2021/08/22/how-to-browse-darkweb-using-net-6/)
 
