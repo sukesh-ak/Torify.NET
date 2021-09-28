@@ -18,6 +18,6 @@ Thank you [Huo Yaoyan](https://github.com/huoyaoyuan) for the implementation.
 ## How to connect to .onion websites through Tor using .NET 6.0
 Please read the detailed accompanying article which explains the steps and also tips on how to setup Tor for connecting from your .NET application.
 
-
+> Run Torproxy in docker instead of installing locally => [TorProxy](https://github.com/sukesh-ak/torproxy)  
 > Article link here on my blog => [Blog Article on sukesh.me](https://sukesh.me/2021/08/22/how-to-browse-darkweb-using-net-6/)
 
